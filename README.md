@@ -5,6 +5,7 @@
 (https://business-planner-frontend.vercel.app)
 
 Логин от тестового аккаунта: business.planner@mail.ru
+
 Пароль: 123
 
 ## Описание проекта

@@ -1,7 +1,7 @@
 # BusinessPlanner
 
 ## Курсовой проект на курсе Tinkoff Fintech School, Frontend, весна 2023
-Выполнила Ежова Елена Дмитриевна
+Ссылка на проект
 (https://business-planner-frontend.vercel.app)
 
 Логин от тестового аккаунта: business.planner@mail.ru
